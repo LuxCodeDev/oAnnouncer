@@ -1,0 +1,1 @@
+# Simple Announce Plugin For Bungeecord

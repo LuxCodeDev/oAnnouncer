@@ -1,0 +1,5 @@
+name: oAnnouncer
+description: Simple Announce Plugin For Bungeecord
+author: LuxCode
+main: es.luxcode.oannouncer.oAnnouncer
+version: ${version}

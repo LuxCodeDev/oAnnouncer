@@ -1,0 +1,8 @@
+interval: 30
+
+announcements:
+  - "&fHello World"
+
+messages:
+  permission: "&cYou don't have permission to use this command!"
+  reloaded: "&aPlugin reloaded successfully!"
